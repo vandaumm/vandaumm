@@ -17,8 +17,8 @@ Sou o criador e mantenedor do portal Utilweb.com.br, onde gerencio mais de 1190 
 
 ## 📬 Contato
 - E-mail: contato@evander.com.br
-- Site: [utilweb.com.br](https://utilweb.com.br)
-
+- Site: https://utilweb.com.br
+- Linkedin: https://www.linkedin.com/in/evander-francisco-218a59216
 ---
 
 # Hi, I'm Evander 👋

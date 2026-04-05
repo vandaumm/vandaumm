@@ -50,20 +50,20 @@ Focused on turning night shifts into tools that solve real-world problems.
 Data: 05/04/2026 13:35
 Ordem: Arquivos da raiz primeiro.
 
-📄 .htaccess (6.9kb)
-📄 ads.txt (0.1kb)
-📄 index.php (10kb)
-📄 manifest.json (0.5kb)
-📄 robots.txt (0.3kb)
-📄 sitemap.php (2.2kb)
-📄 sw.js (1.2kb)
+📄 .htaccess
+📄 ads.txt
+📄 index.php
+📄 manifest.json
+📄 robots.txt
+📄 sitemap.php
+📄 sw.js
 📁 assets/
-  📄 conversores-db.json (2881.1kb)
-  📄 estilo.css (8.4kb)
-  📄 guias-db.json (48.6kb)
-  📄 horario-db.json (9.4kb)
-  📄 moedas-db.json (686.7kb)
-  📄 rates-cache.json (2.6kb)
+  📄 conversores-db.json
+  📄 estilo.css
+  📄 guias-db.json
+  📄 horario-db.json
+  📄 moedas-db.json
+  📄 rates-cache.json
   📄 script.js (7.2kb)
   📄 search-index.json (476.5kb)
   📁 css/

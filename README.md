@@ -1,6 +1,6 @@
 # Olá, eu sou o Evander 👋
 
-Atualmente trabalho como Supervisor em uma drogaria e utilizo minhas madrugadas de plantão para desenvolver soluções úteis. Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e estou em transição de carreira, buscando minha primeira oportunidade na área de TI.
+Atualmente trabalho como Supervisor em uma drogaria e desenvolvo soluções úteis. Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e estou em transição de carreira, buscando minha primeira oportunidade na área de TI.
 
 Sou o criador e mantenedor do portal Utilweb.com.br, onde gerencio mais de 1190 ferramentas de cálculo e conversão construídas com o apoio de Inteligência Artificial.
 

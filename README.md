@@ -4,6 +4,7 @@ Atualmente atuo como Supervisor no varejo e dedico meu tempo livre para planejar
 Meu grande foco atual é o estudo de Redes de Computadores e Arquitetura de Nuvem (Cloud), com o objetivo de atuar na área de Infraestrutura (como Amazon AWS) e Segurança da Informação.
 
 Meus Focos e Estudos:
+
 • Redes de Computadores e Cloud: Estudando infraestrutura em nuvem (AWS) e arquitetura de redes lógicas.
 
 • Segurança da Informação: Entusiasta de tecnologias descentralizadas e protocolos de segurança como AES-256 e SHA-256.
@@ -13,6 +14,7 @@ Meus Focos e Estudos:
 • Desenvolvimento Orquestrado por IA: Uso de inteligência artificial para automação de tarefas e estruturação de bases de dados.
 
 Projetos onde aplico meus conhecimentos:
+
 • Utilweb (utilweb.com.br): Atuo como Criador e Product Owner (PO). É um portal de utilidade pública com mais de 1.190 ferramentas gratuitas. Gerencio a infraestrutura, o SEO e orquestro o ecossistema com IA.
 
 • utilweb-open-data (GitHub): Minha iniciativa open-source para compartilhar as bases de dados e lógicas do portal com a comunidade de desenvolvedores.

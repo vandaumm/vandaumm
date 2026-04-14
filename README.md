@@ -1,46 +1,52 @@
-# Olá, eu sou o Evander 👋
+Olá, eu sou o Evander 👋
 
-Atualmente trabalho como Supervisor em uma drogaria e desenvolvo soluções úteis. Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e estou em transição de carreira, buscando minha primeira oportunidade na área de TI.
+Atualmente atuo como Supervisor no varejo e dedico meu tempo livre para planejar e gerenciar projetos de tecnologia. Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e estou em transição de carreira.
+Meu grande foco atual é o estudo de Redes de Computadores e Arquitetura de Nuvem (Cloud), com o objetivo de atuar na área de Infraestrutura (como Amazon AWS) e Segurança da Informação.
 
-Sou o criador e mantenedor do portal Utilweb.com.br, onde gerencio mais de 1190 ferramentas de cálculo e conversão construídas com o apoio de Inteligência Artificial.
+Meus Focos e Estudos:
+• Redes de Computadores e Cloud: Estudando infraestrutura em nuvem (AWS) e arquitetura de redes lógicas.
 
-## 🛠️ Projetos Atuais
-- [Utilweb](https://utilweb.com.br): Portal de utilidade pública com ferramentas gratuitas.
-- [utilweb-open-data](https://github.com/vandaumm/utilweb-open-data): Minha iniciativa de abrir as bases de dados (JSON) e lógicas do portal para a comunidade.
+• Segurança da Informação: Entusiasta de tecnologias descentralizadas e protocolos de segurança como AES-256 e SHA-256.
 
-## 💻 Conhecimentos e Foco
-- Análise e Desenvolvimento de Sistemas (Formação Acadêmica)
-- Segurança da Informação: Entusiasta do mercado cripto e interessado em segurança de dados e criptografias como AES-256 e SHA-256.
-- Desenvolvimento Guiado por IA: Proficiente no uso de LLMs para automação e estruturação de dados.
-- Python e JavaScript: Foco em processamento de dados e lógicas matemáticas.
-- SEO e Gestão de Portais Web.
+• Gestão de Produto e Governança: Foco em estruturação de projetos, regras de negócio e visão estratégica.
 
-## 📬 Contato
-- E-mail: contato@evander.com.br
-- Site: https://utilweb.com.br
-- Linkedin: https://www.linkedin.com/in/evander-francisco-218a59216
----
+• Desenvolvimento Orquestrado por IA: Uso de inteligência artificial para automação de tarefas e estruturação de bases de dados.
 
-# Hi, I'm Evander 👋
+Projetos onde aplico meus conhecimentos:
+• Utilweb (utilweb.com.br): Atuo como Criador e Product Owner (PO). É um portal de utilidade pública com mais de 1.190 ferramentas gratuitas. Gerencio a infraestrutura, o SEO e orquestro o ecossistema com IA.
 
-Currently, I work as a Pharmacy Supervisor and use my night shifts to develop useful solutions. I have a degree in Systems Analysis and Development (ADS) and I am transitioning into the IT field, looking for my first professional opportunity.
+• utilweb-open-data (GitHub): Minha iniciativa open-source para compartilhar as bases de dados e lógicas do portal com a comunidade de desenvolvedores.
+Contato
 
-I am the creator and maintainer of the Utilweb.com.br portal, where I manage over 1,190 calculation and conversion tools built with the support of Artificial Intelligence.
+• E-mail: contato@evander.com.br
+• Site: evander.com.br
+• Portal: utilweb.com.br
+• LinkedIn: linkedin.com/in/evander-francisco-218a59216
 
-## 🛠️ Current Projects
-- [Utilweb](https://utilweb.com.br): Public utility portal with free tools.
-- [utilweb-open-data](https://github.com/vandaumm/utilweb-open-data): My initiative to open the portal's databases (JSON) and logic to the community.
+Hi, I am Evander 👋
 
-## 💻 Knowledge and Focus
-- Systems Analysis and Development (Academic Background)
-- Information Security: Crypto enthusiast interested in data security and encryptions like AES-256 and SHA-256.
-- AI-Driven Development: Proficient in using LLMs for automation and data structuring.
-- Python and JavaScript: Focused on data processing and mathematical logic.
-- SEO and Web Portal Management.
+Currently, I work as a Retail Supervisor and dedicate my free time to planning and managing technology projects. I have a degree in Systems Analysis and Development (ADS) and I am transitioning into the IT field.
 
-## 📬 Contact
-- Email: contato@evander.com.br
-- Website: [utilweb.com.br](https://utilweb.com.br)
+My main focus right now is studying Computer Networks and Cloud Architecture, aiming to work with Infrastructure (like Amazon AWS) and Information Security.
+My Focus and Studies
 
----
+• Computer Networks and Cloud: Studying cloud infrastructure (AWS) and network architecture.
+
+• Information Security: Enthusiast of decentralized technologies and security protocols like AES-256 and SHA-256.
+
+• Product Management and Governance: Focused on logical project structuring, business rules, and strategic vision.
+
+• AI-Orchestrated Development: Using artificial intelligence for task automation and database structuring.
+Projects
+
+• Utilweb (utilweb.com.br): I act as the Creator and Product Owner (PO). It is a public utility portal with over 1,190 free tools. I manage the infrastructure, SEO, and orchestrate the ecosystem with AI.
+
+• utilweb-open-data (GitHub): My open-source initiative to share the portal databases and logic with the developer community.
+Contact
+
+• Email: contato@evander.com.br
+• Website: evander.com.br
+• Portal: utilweb.com.br
+• LinkedIn: linkedin.com/in/evander-francisco-218a59216
 Focado em desenvolver soluções eficientes e ferramentas que resolvem problemas reais.
+Focused on developing efficient solutions and tools that solve real-world problems.

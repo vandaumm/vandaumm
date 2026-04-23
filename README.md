@@ -49,6 +49,5 @@ Contact
 • Email: contato@evander.com.br
 • Website: evander.com.br
 • Portal: utilweb.com.br
-• LinkedIn: linkedin.com/in/evander-francisco-218a59216
 Focado em desenvolver soluções eficientes e ferramentas que resolvem problemas reais.
 Focused on developing efficient solutions and tools that solve real-world problems.
